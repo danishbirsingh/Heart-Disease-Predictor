@@ -42,4 +42,4 @@ To predict the condition of heart of a patient i.e. whether it is healthy or def
 
 • Algorithm - Logistic Regression 
 
-• IDE - Google Collab
+• IDE - Jupyter Notebook
